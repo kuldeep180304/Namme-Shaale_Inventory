@@ -73,19 +73,17 @@ The app serves as a digital ledger to ensure every resource is used and maintain
 <summary>View Screens</summary>
 
 ### Dashboard
-<img width="250" src="https://github.com/user-attachments/assets/22505fda-fee0-43bc-a8a7-0220aa9de622"/>
+<img src="https://github.com/user-attachments/assets/22505fda-fee0-43bc-a8a7-0220aa9de622" width="220"/>
 
 ---
 
 ### All Assets List
-<img width="738" height="1600" alt="p-2" src="https://github.com/user-attachments/assets/372eff83-6380-4719-b383-408dfa091f66" />
-
+<img src="https://github.com/user-attachments/assets/372eff83-6380-4719-b383-408dfa091f66" width="220"/>
 
 ---
 
 ### Register Asset
-<img width="738" height="1600" alt="p-3" src="https://github.com/user-attachments/assets/b3d3acf2-48c7-42fb-bdf3-4effef2d7a4a" />
-
+<img src="https://github.com/user-attachments/assets/b3d3acf2-48c7-42fb-bdf3-4effef2d7a4a" width="220"/>
 
 </details>
 
