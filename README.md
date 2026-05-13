@@ -1,4 +1,4 @@
-Namma-Shaale Inventory 🏫
+#Namma-Shaale Inventory 🏫
 Namma-Shaale Inventory is a "Digital Asset Auditor" designed for primary and secondary schools. It provides a simplified, mobile-first approach to tracking the health and condition of government-funded resources like sports kits, lab equipment, and tablets.
 
 1. The Problem Statement
